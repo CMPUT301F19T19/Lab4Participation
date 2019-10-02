@@ -6,4 +6,6 @@ tom: square
 
 danish: rectangle
 
+jenyang: hexagon
+
 liushuyu: star
