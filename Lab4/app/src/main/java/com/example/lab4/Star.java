@@ -1,5 +1,11 @@
 package com.example.lab4;
 
 public class Star extends Shape {
-	public Star(int x, int y) {}
+	private int sides = 0;
+	public Star(int x, int y) {
+		super();
+		this.x = x;
+		this.y = y;
+		sides = x + y;
+	}
 }
