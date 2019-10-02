@@ -1,1 +1,2 @@
-This is the Readmeeeee
+lefan: square
+zhengen: circle
