@@ -1,1 +1,11 @@
-This is the Readmeeeee
+lefan: oval
+
+zhengen: circle
+
+tom: square
+
+danish: rectangle
+
+jenyang: hexagon
+
+liushuyu: star
