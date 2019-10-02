@@ -1,2 +1,3 @@
-lefan: square
+lefan: oval
 zhengen: circle
+tom: square
